@@ -1,0 +1,5 @@
+num_training_steps = 20
+
+for steps in range(num_training_steps):
+  train_err = train_fn(X_train,y_train)
+  print("Current step is"+ str(steps))
