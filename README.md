@@ -1,5 +1,7 @@
 # Projects
-1. Power BI Projects : Analysing IT Spend for a company from 2001 to 2012.
+1. Power BI Projects : 
+   1. The IT spend analysis PowerBI dashboard project for the years 2001-2012 utilized interactive visualizations, drill-down functionality, dynamic filters, data consolidation, advanced calculations, DAX, conditional formatting, cross-filtering & export functionality. The dashboard provided an overview of the total IT spending for each year, as well as a breakdown of expenditures across different categories, such as hardware, software, infrastructure, services, and personnel.
+   2. Sales Analysis for company over the year 2019.
 
 3. Android Application : Leave application app based on my college procedure.
 
